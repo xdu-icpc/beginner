@@ -1,0 +1,6 @@
+site_url: https://icpc.top
+site_name: ACM 入门教程
+nav:
+  - Home: index.md
+  - About: about.md
+
